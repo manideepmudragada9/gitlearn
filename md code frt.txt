@@ -1,1 +1,0 @@
-<iframe src='https://webchat.botframework.com/embed/languaagegroup-bot?s=y64-fwzCqQM.3oQIjCNUa9f8EXbZ7ajT-oZyhv9_LvLHjur_OzFLJ30'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
